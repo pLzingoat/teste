@@ -1,0 +1,57 @@
+{
+    "success": true,
+    "data": {
+        "credit": 23949,
+        "freemode": false,
+        "jackpot": 0,
+        "free_spin": 0,
+        "free_num": 0,
+        "scaler": 0,
+        "num_line": 5,
+        "bet_amount": 20,
+        "feature_symbol": "",
+        "pull": {
+            "WinAmount": 0,
+            "WinOnDrop": 0,
+            "TotalWay": 27,
+            "FreeSpin": 0,
+            "HasNewSpawn": true,
+            "HasPlaceHolder": false,
+            "LastMultiply": 0,
+            "WildFixedIcons": [],
+            "HasJackpot": false,
+            "HasScatter": false,
+            "CountScatter": 0,
+            "WildColumIcon": "",
+            "MultipyScatter": 0,
+            "MultiplyCount": 1,
+            "SlotIcons": [
+                "Symbol_3",
+                "Symbol_6",
+                "Symbol_2",
+                "Symbol_6",
+                "Symbol_2",
+                "Symbol_3",
+                "Symbol_1",
+                "Symbol_4",
+                "Symbol_6"
+            ],
+            "ActiveIcons": [],
+            "ActiveLines": [],
+            "WinLogs": [
+                "[BET] betLevel: 20, betSize:2, baseBet:5.00 => 200"
+            ],
+            "DropLine": 0,
+            "DropLineData": [],
+            "MultipleList": [],
+            "FeatureResult": {
+                "left_feature": 9,
+                "select_count": 0,
+                "right_feature": 9,
+                "select_finish": false,
+                "access_feature": false
+            }
+        }
+    },
+    "message": "Spin success"
+}

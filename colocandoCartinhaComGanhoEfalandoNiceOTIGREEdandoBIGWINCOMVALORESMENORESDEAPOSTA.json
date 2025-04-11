@@ -1,0 +1,77 @@
+{
+    "success": true,
+    "data": {
+        "credit": 24949,
+        "freemode": false,
+        "jackpot": 0,
+        "free_spin": 0,
+        "free_num": 0,
+        "scaler": 0,
+        "num_line": 5,
+        "bet_amount": 20,
+        "feature_symbol": "",
+        "pull": {
+            "WinAmount": 1200,
+            "WinOnDrop": 1200,
+            "TotalWay": 27,
+            "FreeSpin": 0,
+            "HasNewSpawn": true,
+            "HasPlaceHolder": false,
+            "LastMultiply": 0,
+            "WildFixedIcons": [],
+            "HasJackpot": false,
+            "HasScatter": false,
+            "CountScatter": 0,
+            "WildColumIcon": "",
+            "MultipyScatter": 0,
+            "MultiplyCount": 2,
+            "SlotIcons": [
+                "Symbol_6",
+                "Symbol_6",
+                "Symbol_1",
+                "Symbol_3",
+                "Symbol_4",
+                "Symbol_5",
+                "Symbol_6",
+                "Symbol_0",
+                "Symbol_6"
+            ],
+            "ActiveIcons": [
+                7,
+                8,
+                9
+            ],
+            "ActiveLines": [
+                {
+                    "index": 3,
+                    "name": "Symbol_6",
+                    "combine": 3,
+                    "way_243": 1,
+                    "payout": 30,
+                    "multiply": 0,
+                    "win_amount": 1200,
+                    "active_icon": [
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            ],
+            "WinLogs": [
+                "[BET] betLevel: 20, betSize:2, baseBet:5.00 => 200",
+                "[WIN] line 3: 3[Symbol_6] payout: 30 x 20 x 2 => 1200"
+            ],
+            "DropLine": 0,
+            "DropLineData": [],
+            "MultipleList": [],
+            "FeatureResult": {
+                "left_feature": 9,
+                "select_count": 0,
+                "right_feature": 9,
+                "select_finish": false,
+                "access_feature": false
+            }
+        }
+    },
+    "message": "Spin success"
+}
